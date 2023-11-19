@@ -45,22 +45,22 @@ export default function About(){
             {
                 id:2,
                 title:"Flutter",
-                src:"@/assets/k2.svg"
+                src:"/assets/flutter.jpg"
             },
             {
                 id:3,
                 title:"ReactJS",
-                src:"@/assets/k2.svg"
+                src:"/assets/react.jpg"
             },
             {
                 id:4,
                 title:"React Native",
-                src:"@/assets/k2.svg"
+                src:"/assets/rctntv.jpg"
             },
             {
                 id:5,
                 title:"App Designing on Figma",
-                src:"@/assets/k2.svg"
+                src:"/assets/figma.jpeg"
             }
         ]},
         {
@@ -70,32 +70,32 @@ export default function About(){
             {
                 id:1,
                 title:"Server Creation and management",
-                src:"@/assets/k2.svg"
+                src:"/assets/scm.jpeg"
             },
             {
                 id:2,
                 title:"Database Management",
-                src: "@/assets/k2.svg"
+                src: "/assets/dbms.jpeg"
             },
             {
                 id:3,
                 title:"Linux Customization",
-                src:"@/assets/k2.svg"
+                src:"/assets/lc.jpeg"
             },
             {
                 id:4,
                 title:"Public Speaking",
-                src:"@/assets/k2.svg"
+                src:"/assets/ps.jpeg"
             },
             {
                 id:5,
                 title:"Leadership",
-                src:"@/assets/k2.svg"
+                src:"/assets/lead.jpeg"
             },
             {
                 id:6,
                 title:"Linux",
-                src:"@/assets/k2.svg"
+                src:"/assets/linux.jpeg"
             }]}
         ];
     return(

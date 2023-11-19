@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import NavBar from '@/components/navbar'
 import { jose, rubik } from './fonts'
-import mehome from '../assets/me1.png'
+import mehome from '/public/assets/me1.png'
 
 export default function Home() {
   return (
